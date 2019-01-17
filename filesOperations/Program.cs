@@ -10,6 +10,7 @@ namespace filesOperations
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My file operations.");
         }
     }
 }
